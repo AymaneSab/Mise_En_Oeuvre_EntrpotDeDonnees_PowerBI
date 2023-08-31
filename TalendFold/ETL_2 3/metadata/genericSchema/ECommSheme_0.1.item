@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_sE_zIEdBEe6T6uoOOUMkJA" dataPackage="_sE_zIUdBEe6T6uoOOUMkJA"/>
+  <TalendMetadata:GenericPackage xmi:id="_sE_zIUdBEe6T6uoOOUMkJA" dataManager="_sE_zIEdBEe6T6uoOOUMkJA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_sE_zIkdBEe6T6uoOOUMkJA" id="_rtstcUdBEe6T6uoOOUMkJA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zI0dBEe6T6uoOOUMkJA" name="ID" label="ID" length="100" precision="-1" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zJEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zJUdBEe6T6uoOOUMkJA" name="Name" label="Name" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zJkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zJ0dBEe6T6uoOOUMkJA" name="Age" label="Age" length="-1" precision="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zKEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zKUdBEe6T6uoOOUMkJA" name="Gender" label="Gender" length="-1" precision="-1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zKkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zK0dBEe6T6uoOOUMkJA" name="City" label="City" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zLEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zLUdBEe6T6uoOOUMkJA" name="Country" label="Country" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zLkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zL0dBEe6T6uoOOUMkJA" name="CreditCard" label="CreditCard" length="-1" precision="-1" talendType="id_Long" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zMEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zMUdBEe6T6uoOOUMkJA" name="FullAddress" label="FullAddress" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zMkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zM0dBEe6T6uoOOUMkJA" name="UserSignUpDate" label="UserSignUpDate" length="-1" precision="-1" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;">
+        <initialValue xmi:id="_sE_zNEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zNUdBEe6T6uoOOUMkJA" name="UserLastPurchaseDate" label="UserLastPurchaseDate" length="-1" precision="-1" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;">
+        <initialValue xmi:id="_sE_zNkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zN0dBEe6T6uoOOUMkJA" name="UserStatus" label="UserStatus" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zOEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zOUdBEe6T6uoOOUMkJA" name="UserTotalPurchases" label="UserTotalPurchases" length="-1" precision="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zOkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zO0dBEe6T6uoOOUMkJA" name="UserSegment" label="UserSegment" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zPEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zPUdBEe6T6uoOOUMkJA" name="UserLocation" label="UserLocation" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zPkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zP0dBEe6T6uoOOUMkJA" name="UserSourceType" label="UserSourceType" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zQEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zQUdBEe6T6uoOOUMkJA" name="UserLastLoginDate" label="UserLastLoginDate" length="-1" precision="-1" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;">
+        <initialValue xmi:id="_sE_zQkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zQ0dBEe6T6uoOOUMkJA" name="UserPurchaseFrequency" label="UserPurchaseFrequency" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zREdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zRUdBEe6T6uoOOUMkJA" name="ProductName" label="ProductName" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zRkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zR0dBEe6T6uoOOUMkJA" name="Category" label="Category" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zSEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zSUdBEe6T6uoOOUMkJA" name="Subcategory" label="Subcategory" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zSkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zS0dBEe6T6uoOOUMkJA" name="Price" label="Price" length="-1" precision="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zTEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zTUdBEe6T6uoOOUMkJA" name="DatePurchase" label="DatePurchase" length="-1" precision="-1" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;">
+        <initialValue xmi:id="_sE_zTkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zT0dBEe6T6uoOOUMkJA" name="Quantity" label="Quantity" length="-1" precision="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zUEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zUUdBEe6T6uoOOUMkJA" name="Rating" label="Rating" length="-1" precision="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zUkdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_sE_zU0dBEe6T6uoOOUMkJA" name="Comment" label="Comment" length="-1" precision="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_sE_zVEdBEe6T6uoOOUMkJA" body=""/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

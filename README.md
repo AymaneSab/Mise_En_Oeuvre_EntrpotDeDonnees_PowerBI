@@ -58,9 +58,4 @@ Le projet est organisé en plusieurs répertoires :
 - **visualization :**
   - Comprend des rapports ou des configurations pour la visualisation des données.
 
-## Comment Démarrer
 
-1. Clonez le dépôt :
-   ```bash
-   git clone <repository-url>
-   cd entrepot-donnees-datamarts-talend
